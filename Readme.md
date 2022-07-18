@@ -1,0 +1,1 @@
+Projeto de nível bem básico de Javascript, escrevendo algumas funções e vendo como funcionam.
